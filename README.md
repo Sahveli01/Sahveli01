@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Şahveli Karahan</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=A+Web3+Builder+%26+Future+Entrepreneur+from+T%C3%BCrkiye+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
-  </a>
-</div>
-<br>
+<h3 align="center">A Web3 Builder & Future Entrepreneur from Türkiye 🇹🇷</h3>
 
 - 🌱 I’m currently learning **connecting with experienced Web3 mentors and potential co-founders.**
 
@@ -32,9 +26,9 @@
 
 <br>
 
-<div align="left">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahveli01&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
+</p>
 
 <br>
 
