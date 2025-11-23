@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Şahveli Karahan</h1>
-<h3 align="center">A Web3 Builder & Future Entrepreneur from Türkiye 🇹🇷</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=500&lines=Web3+Builder+%26+Future+Entrepreneur;Sui+%26+Celo+Ecosystem+Developer;Learning+AI+%26+Python+Programming;Whale+on+Testnets%2C+Humble+on+Mainnet+%F0%9F%90%B3" alt="Typing SVG" />
+  </a>
+</div>
+<br>
 
 - 🌱 I’m currently learning **connecting with experienced Web3 mentors and potential co-founders.**
 
@@ -12,8 +18,6 @@
 - 📫 How to reach me **sahvelikarahan1@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sahvelikarahan](https://www.linkedin.com/in/sahvelikarahan)
-
-- ⚡ Fun fact **I'm a whale on Testnets, but humble on Mainnet 🐳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
